@@ -1,0 +1,13 @@
+com/example/springhibernate/springhibernate/services/Config$Test.class
+com/example/springhibernate/springhibernate/models/Client.class
+com/example/springhibernate/springhibernate/utils/CommandLineListener.class
+com/example/springhibernate/springhibernate/dao/ClientDao.class
+com/example/springhibernate/springhibernate/repositories/ClientRepository.class
+com/example/springhibernate/springhibernate/SpringhibernateApplication.class
+com/example/springhibernate/springhibernate/models/Bank.class
+com/example/springhibernate/springhibernate/controllers/Controller.class
+com/example/springhibernate/springhibernate/repositories/BankRepository.class
+com/example/springhibernate/springhibernate/models/ClientTable.class
+com/example/springhibernate/springhibernate/utils/CommandLineRunner.class
+com/example/springhibernate/springhibernate/services/Config.class
+com/example/springhibernate/springhibernate/services/ClientService.class

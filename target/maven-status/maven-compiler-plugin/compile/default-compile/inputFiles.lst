@@ -1,0 +1,12 @@
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/repositories/ClientRepository.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/controllers/Controller.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/services/ClientService.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/models/ClientTable.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/models/Client.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/services/Config.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/dao/ClientDao.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/repositories/BankRepository.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/models/Bank.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/utils/CommandLineRunner.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/utils/CommandLineListener.java
+/home/ofir/Documents/projects/Spring/gs-rest-service/springhibernate/src/main/java/com/example/springhibernate/springhibernate/SpringhibernateApplication.java
